@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/landlord/static/css/main.9900741b.chunk.css",
+    "main.js": "/landlord/static/js/main.728624c0.chunk.js",
+    "main.js.map": "/landlord/static/js/main.728624c0.chunk.js.map",
+    "runtime-main.js": "/landlord/static/js/runtime-main.e49e20c0.js",
+    "runtime-main.js.map": "/landlord/static/js/runtime-main.e49e20c0.js.map",
+    "static/js/2.65e15d96.chunk.js": "/landlord/static/js/2.65e15d96.chunk.js",
+    "static/js/2.65e15d96.chunk.js.map": "/landlord/static/js/2.65e15d96.chunk.js.map",
+    "index.html": "/landlord/index.html",
+    "precache-manifest.933001103fb194ab627d9eec8fb88b77.js": "/landlord/precache-manifest.933001103fb194ab627d9eec8fb88b77.js",
+    "service-worker.js": "/landlord/service-worker.js",
+    "static/css/main.9900741b.chunk.css.map": "/landlord/static/css/main.9900741b.chunk.css.map",
+    "static/js/2.65e15d96.chunk.js.LICENSE.txt": "/landlord/static/js/2.65e15d96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e49e20c0.js",
+    "static/js/2.65e15d96.chunk.js",
+    "static/css/main.9900741b.chunk.css",
+    "static/js/main.728624c0.chunk.js"
+  ]
+}
